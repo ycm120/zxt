@@ -103,3 +103,27 @@ border: solid 1px #0076a3;
 background: #0095cd;
 
 }
+
+.log{
+
+width: 100%;
+
+min-height: 150rpx;
+
+margin: 10rpx;
+
+text-shadow: 0 1px 1px rgba(0,0,0,.3);
+
+border-radius: 5rpx;
+
+text-align: center;
+
+line-height: 150rpx;
+ /* 前景色 */
+color: #fef4e9;
+
+border: solid 1px #0076a3;
+
+/* 背景色 */
+background: #0095cd;
+}

@@ -62,4 +62,6 @@
 
 </view>
 
+<view id="log" class="log" bindtap="seeLog" >查看日志</view>
+
 </view>

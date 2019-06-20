@@ -242,6 +242,12 @@ Page({
 
     }
 
+  },
+
+  seeLog: function(){
+    wx.reLaunch({
+      url:'/pages/logs/logs',
+      });
   }
 
 })

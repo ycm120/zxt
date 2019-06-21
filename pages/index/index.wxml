@@ -62,6 +62,10 @@
 
 </view>
 
-<view id="log" class="log" bindtap="seeLog" >查看日志</view>
+<view>
+    <navigator  url="/pages/logs/logs" class="log">查看日志</navigator>
+</view>
+
+<!-- <view id="log" class="log" bindtap="seeLog" >查看日志</view> -->
 
 </view>
